@@ -1950,63 +1950,27 @@ body {
     font-size: 0.8rem;
   }
 }
-.cid-qZmFutL8dB {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-r0DsD3z4g4 {
+  background: #ffffff;
 }
-.cid-qZmFutL8dB .mbr-section-subtitle {
-  color: #767676;
+.cid-r0DsD3z4g4 .image-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-qZmFutL8dB .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+.cid-r0DsD3z4g4 .mbr-figure {
+  margin: 0 auto;
 }
-.cid-qZmFutL8dB .mbr-text {
-  color: #767676;
-  text-align: left;
+.cid-r0DsD3z4g4 figcaption {
+  position: relative;
 }
-.cid-qZmFutL8dB .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-qZmFutL8dB .mbr-author-name {
-  color: #767676;
-}
-.cid-qZmFutL8dB .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-qZmFutL8dB .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-qZmFutL8dB .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-qZmFutL8dB .mbr-testimonial .card-block .testimonial-photo img {
+.cid-r0DsD3z4g4 figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  min-width: 100%;
-  min-height: 100%;
 }
-.cid-qZmFutL8dB .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-qZmFutL8dB .testimonial-photo {
+@media (max-width: 768px) {
+  .cid-r0DsD3z4g4 .image-block {
     width: 100% !important;
-    height: auto !important;
   }
 }
 .cid-qZdNRddGXa {
@@ -2171,24 +2135,6 @@ body {
   .cid-r0DhV7Qbw9 .image-block {
     width: 100% !important;
   }
-}
-.cid-qZh97WsZzl {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qZh97WsZzl .mbr-text {
-  color: #767676;
-}
-.cid-qZh97WsZzl h4 {
-  text-align: center;
-}
-.cid-qZh97WsZzl p {
-  text-align: center;
-}
-.cid-qZh97WsZzl .card-img span {
-  font-size: 96px;
-  color: #149dcc;
 }
 .cid-qZ7EpJVZA7 {
   padding-top: 30px;
@@ -2737,7 +2683,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qZmVZs3rji {
-  background-image: url("../../../assets/images/100-9889-1360x20481.jpg");
+  background-image: url("../../../assets/images/100-9889-1360x20480.jpg");
 }
 .cid-qZmVZs3rji H1 {
   text-align: left;
